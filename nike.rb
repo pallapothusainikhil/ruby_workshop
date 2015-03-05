@@ -1,2 +1,2 @@
-puts 4+3
+puts "hi every one"
 gets
